@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.blog.hubspot.com	TRUE	/	FALSE	1999999999	__cfruid	37776e2a3996494b9754ecf4a4508813c7109cc6-1627679207
+blog.hubspot.com	TRUE	/	FALSE	1999999999	SameSite	None
+

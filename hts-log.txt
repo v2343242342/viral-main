@@ -1,0 +1,281 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 30 Jul 2021 23:01:16 at https://socialistics.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://socialistics.com/ -O1 "C:\My Web Sites\S O C I A L I S T I C S" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:01:17	Warning: 	Note: due to https://socialistics.com remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+23:01:53	Error: 	"Method Not Allowed" (405) at link https://socialistics.com/xmlrpc.php (from https://socialistics.com/)
+23:01:53	Warning: 	Moved Permanently for https://socialistics.com/comments/feed/
+23:01:53	Warning: 	Redirected link is identical because of 'URL Hack' option: https://socialistics.com/comments/feed/ and https://socialistics.com/comments/feed/
+23:01:53	Warning: 	Can not bear crazy server (Moved Permanently) for https://socialistics.com/comments/feed/
+23:03:17	Warning: 	Moved Permanently for https://socialistics.com/social/
+23:03:17	Warning: 	Warning moved treated for https://socialistics.com/social/ (real one is https://socialistics.com/wp-content/uploads/2021/07/social.jpg)
+23:03:17	Warning: 	Moved Permanently for https://socialistics.com/privacy-policy//
+23:03:17	Warning: 	Redirected link is identical because of 'URL Hack' option: https://socialistics.com/privacy-policy// and https://socialistics.com/privacy-policy/
+23:03:17	Warning: 	File has moved from https://socialistics.com/privacy-policy// to https://socialistics.com/privacy-policy/
+23:03:17	Warning: 	Retry after error -5 (Unable to get server's address: The requested name is valid, but no data of the ) at link https://diffuser-cdn.app-us1.com/diffuser/diffuser.js (from https://socialistics.com/)
+23:03:18	Warning: 	Retry after error -5 (Unable to get server's address: The requested name is valid, but no data of the ) at link https://sc.lfeeder.com/lftracker_v1_lAxoEaKyGVo7OYGd.js (from https://socialistics.com/)
+23:03:18	Warning: 	Retry after error -5 (Unable to get server's address: The requested name is valid, but no data of the ) at link https://snap.licdn.com/li.lms-analytics/insight.min.js (from https://socialistics.com/)
+23:03:19	Error: 	"Not Found" (404) at link https://socialistics.com/wp-content/plugins/range-slider-for-gravity-form/includes/js/images/animated-overlay.gif (from https://socialistics.com/wp-content/plugins/range-slider-for-gravity-form/includes/js/jquery-ui.css?ver=2.0.0)
+23:03:19	Error: 	"Not Found" (404) at link https://socialistics.com/wp-content/plugins/range-slider-for-gravity-form/includes/js/images/ui-bg_highlight-soft_100_eeeeee_1x100.png (from https://socialistics.com/wp-content/plugins/range-slider-for-gravity-form/includes/js/jquery-ui.css?ver=2.0.0)
+23:03:19	Error: 	"Not Found" (404) at link https://socialistics.com/wp-content/plugins/range-slider-for-gravity-form/includes/js/images/ui-bg_gloss-wave_35_f6a828_500x100.png (from https://socialistics.com/wp-content/plugins/range-slider-for-gravity-form/includes/js/jquery-ui.css?ver=2.0.0)
+23:03:19	Error: 	"Not Found" (404) at link https://socialistics.com/wp-content/plugins/range-slider-for-gravity-form/includes/js/images/ui-bg_glass_100_f6f6f6_1x400.png (from https://socialistics.com/wp-content/plugins/range-slider-for-gravity-form/includes/js/jquery-ui.css?ver=2.0.0)
+23:03:19	Error: 	"Not Found" (404) at link https://socialistics.com/wp-content/plugins/range-slider-for-gravity-form/includes/js/images/ui-bg_glass_100_fdf5ce_1x400.png (from https://socialistics.com/wp-content/plugins/range-slider-for-gravity-form/includes/js/jquery-ui.css?ver=2.0.0)
+23:03:19	Error: 	"Not Found" (404) at link https://socialistics.com/wp-content/plugins/range-slider-for-gravity-form/includes/js/images/ui-bg_glass_65_ffffff_1x400.png (from https://socialistics.com/wp-content/plugins/range-slider-for-gravity-form/includes/js/jquery-ui.css?ver=2.0.0)
+23:03:19	Error: 	"Not Found" (404) at link https://socialistics.com/wp-content/plugins/range-slider-for-gravity-form/includes/js/images/ui-bg_highlight-soft_75_ffe45c_1x100.png (from https://socialistics.com/wp-content/plugins/range-slider-for-gravity-form/includes/js/jquery-ui.css?ver=2.0.0)
+23:03:19	Error: 	"Not Found" (404) at link https://socialistics.com/wp-content/plugins/range-slider-for-gravity-form/includes/js/images/ui-bg_diagonals-thick_18_b81900_40x40.png (from https://socialistics.com/wp-content/plugins/range-slider-for-gravity-form/includes/js/jquery-ui.css?ver=2.0.0)
+23:03:19	Error: 	"Not Found" (404) at link https://socialistics.com/wp-content/plugins/range-slider-for-gravity-form/includes/js/images/ui-icons_222222_256x240.png (from https://socialistics.com/wp-content/plugins/range-slider-for-gravity-form/includes/js/jquery-ui.css?ver=2.0.0)
+23:03:19	Error: 	"Not Found" (404) at link https://socialistics.com/wp-content/plugins/range-slider-for-gravity-form/includes/js/images/ui-icons_ffffff_256x240.png (from https://socialistics.com/wp-content/plugins/range-slider-for-gravity-form/includes/js/jquery-ui.css?ver=2.0.0)
+23:03:19	Error: 	"Not Found" (404) at link https://socialistics.com/wp-content/plugins/range-slider-for-gravity-form/includes/js/images/ui-icons_ef8c08_256x240.png (from https://socialistics.com/wp-content/plugins/range-slider-for-gravity-form/includes/js/jquery-ui.css?ver=2.0.0)
+23:03:19	Error: 	"Not Found" (404) at link https://socialistics.com/wp-content/plugins/range-slider-for-gravity-form/includes/js/images/ui-icons_228ef1_256x240.png (from https://socialistics.com/wp-content/plugins/range-slider-for-gravity-form/includes/js/jquery-ui.css?ver=2.0.0)
+23:03:19	Error: 	"Not Found" (404) at link https://socialistics.com/wp-content/plugins/range-slider-for-gravity-form/includes/js/images/ui-icons_ffd27a_256x240.png (from https://socialistics.com/wp-content/plugins/range-slider-for-gravity-form/includes/js/jquery-ui.css?ver=2.0.0)
+23:03:19	Error: 	"Not Found" (404) at link https://socialistics.com/wp-content/plugins/range-slider-for-gravity-form/includes/js/images/ui-bg_diagonals-thick_20_666666_40x40.png (from https://socialistics.com/wp-content/plugins/range-slider-for-gravity-form/includes/js/jquery-ui.css?ver=2.0.0)
+23:03:19	Error: 	"Not Found" (404) at link https://socialistics.com/wp-content/plugins/range-slider-for-gravity-form/includes/js/images/ui-bg_flat_10_000000_40x100.png (from https://socialistics.com/wp-content/plugins/range-slider-for-gravity-form/includes/js/jquery-ui.css?ver=2.0.0)
+23:03:22	Error: 	"Not Found" (404) at link https://socialistics.com/POST (from https://connect.facebook.net/en_US/fbevents.js)
+23:03:22	Warning: 	Moved Permanently for https://socialistics.com/?p=13
+23:03:22	Warning: 	File has moved from https://socialistics.com/?p=13 to https://socialistics.com/about/
+23:03:23	Warning: 	Moved Permanently for https://socialistics.com/?p=6008
+23:03:23	Warning: 	File has moved from https://socialistics.com/?p=6008 to https://socialistics.com/socialistics-cares/
+23:03:30	Warning: 	Moved Permanently for https://socialistics.com/?p=5974
+23:03:30	Warning: 	File has moved from https://socialistics.com/?p=5974 to https://socialistics.com/careers/
+23:03:38	Warning: 	Moved Permanently for https://socialistics.com/?p=7634
+23:03:38	Warning: 	File has moved from https://socialistics.com/?p=7634 to https://socialistics.com/how-much-does-social-media-marketing-cost/
+23:03:38	Warning: 	Moved Permanently for https://socialistics.com/?p=517
+23:03:38	Warning: 	File has moved from https://socialistics.com/?p=517 to https://socialistics.com/our-work/
+23:03:39	Warning: 	Moved Permanently for https://socialistics.com/?p=535
+23:03:39	Warning: 	File has moved from https://socialistics.com/?p=535 to https://socialistics.com/services/
+23:03:39	Warning: 	Moved Permanently for https://socialistics.com/?p=562
+23:03:39	Warning: 	File has moved from https://socialistics.com/?p=562 to https://socialistics.com/podcast/
+23:03:42	Warning: 	Moved Permanently for https://socialistics.com/?p=589
+23:03:42	Warning: 	File has moved from https://socialistics.com/?p=589 to https://socialistics.com/blog/
+23:03:43	Error: 	"Error when decompressing" (-1) at link https://socialistics.com/blog/%e2%80%9chttps:/s3.amazonaws.com/top-local-agencies/js/upcity_widget.js%e2%80%9d (from https://socialistics.com/blog/)
+23:03:43	Warning: 	Moved Permanently for https://socialistics.com/author/socialistics2/
+23:03:43	Warning: 	File has moved from https://socialistics.com/author/socialistics2/ to https://socialistics.com
+23:03:44	Warning: 	Moved Permanently for https://socialistics.com/author/ashleysocialistics-com/
+23:03:44	Warning: 	File has moved from https://socialistics.com/author/ashleysocialistics-com/ to https://socialistics.com
+23:03:48	Warning: 	Moved Permanently for https://socialistics.com/author/joannasocialistics-com/
+23:03:48	Warning: 	File has moved from https://socialistics.com/author/joannasocialistics-com/ to https://socialistics.com
+23:03:51	Warning: 	Moved Permanently for https://socialistics.com/author/kaylasocialistics-com/
+23:03:51	Warning: 	File has moved from https://socialistics.com/author/kaylasocialistics-com/ to https://socialistics.com
+23:04:42	Warning: 	Moved Permanently for https://socialistics.com/?p=7903
+23:04:42	Warning: 	File has moved from https://socialistics.com/?p=7903 to https://socialistics.com/contact/
+23:04:43	Warning: 	Moved Permanently for https://socialistics.com/?p=5549
+23:04:43	Warning: 	File has moved from https://socialistics.com/?p=5549 to https://socialistics.com/us-air-force/
+23:04:43	Warning: 	Moved Permanently for https://socialistics.com/?p=5542
+23:04:43	Warning: 	File has moved from https://socialistics.com/?p=5542 to https://socialistics.com/trupanion/
+23:04:43	Warning: 	Moved Permanently for https://socialistics.com/?p=5942
+23:04:43	Warning: 	File has moved from https://socialistics.com/?p=5942 to https://socialistics.com/the-true-don-quixote/
+23:04:43	Warning: 	Moved Permanently for https://socialistics.com/?p=5946
+23:04:43	Warning: 	File has moved from https://socialistics.com/?p=5946 to https://socialistics.com/a-habitat-for-humanity/
+23:04:43	Warning: 	Moved Permanently for https://socialistics.com/?p=8046
+23:04:43	Warning: 	File has moved from https://socialistics.com/?p=8046 to https://socialistics.com/the-power-of-storytelling-and-how-it-can-transform-your-business/
+23:04:43	Warning: 	Moved Permanently for https://socialistics.com/?p=8051
+23:04:43	Warning: 	File has moved from https://socialistics.com/?p=8051 to https://socialistics.com/socialistics-takes-a-spot-on-clutchs-list-of-top-social-media-marketing-companies-in-washington/
+23:04:43	Warning: 	Moved Permanently for https://socialistics.com/?p=8043
+23:04:43	Warning: 	File has moved from https://socialistics.com/?p=8043 to https://socialistics.com/legal-tips-and-advice-for-agency-owners-with-ruth-carter/
+23:04:43	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://diffuser-cdn.app-us1.com/diffuser/diffuser.js (from https://socialistics.com/)
+23:04:43	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://sc.lfeeder.com/lftracker_v1_lAxoEaKyGVo7OYGd.js (from https://socialistics.com/)
+23:04:43	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://snap.licdn.com/li.lms-analytics/insight.min.js (from https://socialistics.com/)
+23:04:43	Warning: 	Moved Permanently for https://socialistics.com/?p=4357
+23:04:43	Warning: 	File has moved from https://socialistics.com/?p=4357 to https://socialistics.com/b2b-instagram-strategies/
+23:04:45	Warning: 	Moved Permanently for https://socialistics.com/contact-us/
+23:04:45	Warning: 	File has moved from https://socialistics.com/contact-us/ to https://www.socialistics.com/contact
+23:04:45	Warning: 	Moved Permanently for https://socialistics.com/?p=7993
+23:04:45	Warning: 	File has moved from https://socialistics.com/?p=7993 to https://socialistics.com/socialistics-cares-room-to-grow/
+23:04:45	Warning: 	Moved Permanently for https://socialistics.com/?p=7735
+23:04:45	Warning: 	File has moved from https://socialistics.com/?p=7735 to https://socialistics.com/socialistics-cares-resolve-the-national-infertility-association/
+23:04:45	Warning: 	Moved Permanently for https://socialistics.com/author/jasonsocialistics-com/
+23:04:45	Warning: 	File has moved from https://socialistics.com/author/jasonsocialistics-com/ to https://socialistics.com
+23:04:45	Warning: 	Moved Permanently for https://socialistics.com/?p=7542
+23:04:45	Warning: 	File has moved from https://socialistics.com/?p=7542 to https://socialistics.com/domestic-violence-services-of-snohomish-county/
+23:04:45	Warning: 	Moved Permanently for https://socialistics.com/?p=8015
+23:04:45	Warning: 	File has moved from https://socialistics.com/?p=8015 to https://socialistics.com/account-manager/
+23:04:45	Warning: 	Moved Permanently for https://socialistics.com/?p=6076
+23:04:45	Warning: 	File has moved from https://socialistics.com/?p=6076 to https://socialistics.com/social-media-manager/
+23:04:45	Warning: 	Moved Permanently for https://socialistics.com/?p=7504
+23:04:45	Warning: 	File has moved from https://socialistics.com/?p=7504 to https://socialistics.com/paid-social-media-manager/
+23:04:45	Warning: 	Moved Permanently for https://socialistics.com/?p=7555
+23:04:45	Warning: 	File has moved from https://socialistics.com/?p=7555 to https://socialistics.com/social-media-content-coordinator/
+23:04:45	Warning: 	Moved Permanently for https://socialistics.com/?p=7725
+23:04:45	Warning: 	File has moved from https://socialistics.com/?p=7725 to https://socialistics.com/podcast-guest-questionnaire/
+23:04:45	Warning: 	Moved Permanently for https://socialistics.com/?p=7985
+23:04:45	Warning: 	File has moved from https://socialistics.com/?p=7985 to https://socialistics.com/how-to-use-social-media-for-recruiting/
+23:04:45	Warning: 	Moved Permanently for https://socialistics.com/?p=8026
+23:04:45	Warning: 	File has moved from https://socialistics.com/?p=8026 to https://socialistics.com/alternative-ways-to-build-an-agency-with-elizabeth-pampalone/
+23:04:45	Warning: 	Moved Permanently for https://socialistics.com/?p=7987
+23:04:45	Warning: 	File has moved from https://socialistics.com/?p=7987 to https://socialistics.com/communicator-awards-award-of-distinction/
+23:04:45	Warning: 	Moved Permanently for https://socialistics.com/?p=8003
+23:04:45	Warning: 	File has moved from https://socialistics.com/?p=8003 to https://socialistics.com/agency-stories-wayne-mullins-from-ugly-mug-marketing/
+23:04:45	Warning: 	Moved Permanently for https://socialistics.com/?p=7879
+23:04:45	Warning: 	File has moved from https://socialistics.com/?p=7879 to https://socialistics.com/how-to-build-a-scaleable-culture-rich-virtual-agency-team/
+23:04:45	Error: 	"Error when decompressing" (-1) at link https://socialistics.com/blog/page/2/%e2%80%9chttps:/s3.amazonaws.com/top-local-agencies/js/upcity_widget.js%e2%80%9d (from https://socialistics.com/blog/page/2/?et_blog)
+23:05:40	Warning: 	Moved Permanently for https://socialistics.com/author/heathersocialistics-com/
+23:05:40	Warning: 	File has moved from https://socialistics.com/author/heathersocialistics-com/ to https://socialistics.com
+23:06:18	Warning: 	Retry after error -4 (No data (connection closed)) at link https://socialistics.com/influencer-social-media-agency-strategies-that-can-grow-your-brand/ (from https://socialistics.com/category/influencer/)
+23:06:18	Warning: 	Retry after error -4 (No data (connection closed)) at link https://socialistics.com/wp-content/uploads/2020/12/image-4.jpg (from https://socialistics.com/category/influencer/)
+23:06:18	Warning: 	Retry after error -4 (No data (connection closed)) at link https://socialistics.com/category/instagram/feed/ (from https://socialistics.com/category/instagram/)
+23:06:19	Warning: 	Retry after error -4 (No data (connection closed)) at link https://socialistics.com/wp-json/wp/v2/categories/10 (from https://socialistics.com/category/linkedin/)
+23:06:33	Warning: 	Moved Permanently for https://socialistics.com/author/aubreysocialistics-com/
+23:06:33	Warning: 	File has moved from https://socialistics.com/author/aubreysocialistics-com/ to https://socialistics.com
+23:07:01	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://diffuser-cdn.app-us1.com/diffuser/diffuser.js (from https://socialistics.com/)
+23:07:01	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://sc.lfeeder.com/lftracker_v1_lAxoEaKyGVo7OYGd.js (from https://socialistics.com/)
+23:07:01	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://snap.licdn.com/li.lms-analytics/insight.min.js (from https://socialistics.com/)
+23:07:01	Warning: 	Moved Permanently for https://socialistics.com/?p=4131
+23:07:01	Warning: 	File has moved from https://socialistics.com/?p=4131 to https://socialistics.com/b2b-social-media-2/
+23:07:01	Warning: 	Moved Permanently for https://socialistics.com/?p=7969
+23:07:01	Warning: 	File has moved from https://socialistics.com/?p=7969 to https://socialistics.com/socialistics-announced-as-a-2021-local-excellence-award-winner-by-upcity/
+23:07:01	Warning: 	Moved Permanently for https://socialistics.com/?p=7967
+23:07:01	Warning: 	File has moved from https://socialistics.com/?p=7967 to https://socialistics.com/inside-the-world-of-agency-sales/
+23:07:01	Warning: 	Moved Permanently for https://socialistics.com/?p=7974
+23:07:01	Warning: 	File has moved from https://socialistics.com/?p=7974 to https://socialistics.com/what-the-ios-privacy-update-really-means/
+23:07:01	Warning: 	Moved Permanently for https://socialistics.com/?p=3183
+23:07:01	Warning: 	File has moved from https://socialistics.com/?p=3183 to https://socialistics.com/social-media-marketing-cost/
+23:07:01	Warning: 	Moved Permanently for https://socialistics.com/?p=7877
+23:07:01	Warning: 	File has moved from https://socialistics.com/?p=7877 to https://socialistics.com/how-to-up-your-agencys-sales-game/
+23:07:01	Warning: 	Moved Permanently for https://socialistics.com/?p=7883
+23:07:01	Warning: 	File has moved from https://socialistics.com/?p=7883 to https://socialistics.com/8-facebook-statistics-every-business-owner-needs-to-know-in-2021/
+23:07:01	Warning: 	Retry after error -4 (Incorrect length (81563 Bytes, 674786 expected)) at link https://socialistics.com/wp-content/uploads/2021/04/twx_ho-328k.jpg (from https://socialistics.com/8-facebook-statistics-every-business-owner-needs-to-know-in-2021/)
+23:07:01	Warning: 	Moved Permanently for https://socialistics.com/?p=7833
+23:07:01	Warning: 	File has moved from https://socialistics.com/?p=7833 to https://socialistics.com/what-is-social-selling-and-how-to-use-it-effectively/
+23:07:01	Warning: 	Moved Permanently for https://socialistics.com/?p=7785
+23:07:01	Warning: 	File has moved from https://socialistics.com/?p=7785 to https://socialistics.com/how-to-integrate-social-selling-into-your-agency/
+23:07:01	Error: 	"Error when decompressing" (-1) at link https://socialistics.com/blog/page/3/%e2%80%9chttps:/s3.amazonaws.com/top-local-agencies/js/upcity_widget.js%e2%80%9d (from https://socialistics.com/blog/page/3/?et_blog)
+23:07:05	Warning: 	Moved Permanently for https://socialistics.com/?p=7494
+23:07:05	Warning: 	File has moved from https://socialistics.com/?p=7494 to https://socialistics.com/stop-paying-agencies-to-tell-you-what-they-are-going-to-do/
+23:07:05	Warning: 	Moved Permanently for https://socialistics.com/?p=7476
+23:07:05	Warning: 	File has moved from https://socialistics.com/?p=7476 to https://socialistics.com/if-youre-not-investing-in-social-media-youre-missing-out/
+23:07:05	Warning: 	Moved Permanently for https://socialistics.com/?p=7483
+23:07:05	Warning: 	File has moved from https://socialistics.com/?p=7483 to https://socialistics.com/if-youre-asking-for-industry-experience-youre-asking-the-wrong-question/
+23:07:05	Warning: 	Moved Permanently for https://socialistics.com/?p=6926
+23:07:05	Warning: 	File has moved from https://socialistics.com/?p=6926 to https://socialistics.com/the-difference-between-hiring-an-agency-vs-employee/
+23:07:05	Warning: 	Moved Permanently for https://socialistics.com/?p=5300
+23:07:05	Warning: 	File has moved from https://socialistics.com/?p=5300 to https://socialistics.com/5-benefits-of-working-with-a-virtual-agency/
+23:07:05	Warning: 	Moved Permanently for https://socialistics.com/?p=4002
+23:07:05	Warning: 	File has moved from https://socialistics.com/?p=4002 to https://socialistics.com/10-social-media-metrics-to-track-and-how-to-do-it/
+23:07:05	Warning: 	Moved Permanently for https://socialistics.com/?p=4431
+23:07:05	Warning: 	File has moved from https://socialistics.com/?p=4431 to https://socialistics.com/how-to-use-linkedin-for-b2b-marketing/
+23:07:09	Warning: 	Moved Permanently for https://socialistics.com/?p=2959
+23:07:09	Warning: 	File has moved from https://socialistics.com/?p=2959 to https://socialistics.com/how-fear-can-kill-brand-innovation/
+23:07:09	Warning: 	Moved Permanently for https://socialistics.com/?p=2955
+23:07:09	Warning: 	File has moved from https://socialistics.com/?p=2955 to https://socialistics.com/brand-face-off-why-spokespeople-are-risky/
+23:07:09	Warning: 	Moved Permanently for https://socialistics.com/?p=3144
+23:07:09	Warning: 	File has moved from https://socialistics.com/?p=3144 to https://socialistics.com/marketing-jobs/
+23:07:09	Warning: 	Moved Permanently for https://socialistics.com/?p=3048
+23:07:09	Warning: 	File has moved from https://socialistics.com/?p=3048 to https://socialistics.com/5-things-you-can-do-in-1-hour-to-improve-your-linkedin-profile/
+23:07:09	Warning: 	Moved Permanently for https://socialistics.com/?p=3046
+23:07:09	Warning: 	File has moved from https://socialistics.com/?p=3046 to https://socialistics.com/7-must-learn-skills-for-new-or-up-and-coming-marketing-pros/
+23:07:09	Warning: 	Moved Permanently for https://socialistics.com/?p=7526
+23:07:09	Warning: 	File has moved from https://socialistics.com/?p=7526 to https://socialistics.com/social-media-recruiting/
+23:07:09	Warning: 	Moved Permanently for https://socialistics.com/?p=6931
+23:07:09	Warning: 	File has moved from https://socialistics.com/?p=6931 to https://socialistics.com/habitat-for-humanity-using-social-to-raise-money-awareness/
+23:07:09	Warning: 	Moved Permanently for https://socialistics.com/?p=5263
+23:07:09	Warning: 	File has moved from https://socialistics.com/?p=5263 to https://socialistics.com/going-hollywood-how-we-built-buzz-excitement-an-independent-film/
+23:07:09	Warning: 	Moved Permanently for https://socialistics.com/?p=4958
+23:07:09	Warning: 	File has moved from https://socialistics.com/?p=4958 to https://socialistics.com/seattle-collaborative-law-center/
+23:07:09	Warning: 	Moved Permanently for https://socialistics.com/?p=4666
+23:07:09	Warning: 	File has moved from https://socialistics.com/?p=4666 to https://socialistics.com/taking-off-social-media-excellence-for-the-air-force/
+23:07:09	Warning: 	Moved Permanently for https://socialistics.com/?p=4488
+23:07:09	Warning: 	File has moved from https://socialistics.com/?p=4488 to https://socialistics.com/a-seasonal-business-case-study-jims-pool-supply/
+23:07:09	Warning: 	Moved Permanently for https://socialistics.com/?p=4416
+23:07:09	Warning: 	File has moved from https://socialistics.com/?p=4416 to https://socialistics.com/how-we-increased-everhome-health-cares-brand-web-traffic/
+23:07:09	Warning: 	Moved Permanently for https://socialistics.com/?p=3984
+23:07:09	Warning: 	File has moved from https://socialistics.com/?p=3984 to https://socialistics.com/how-we-grew-trupanions-veterinary-social-media-community/
+23:07:09	Warning: 	Moved Permanently for https://socialistics.com/?p=7592
+23:07:09	Warning: 	File has moved from https://socialistics.com/?p=7592 to https://socialistics.com/how-the-ios14-update-can-affect-your-facebook-ads/
+23:07:09	Warning: 	Moved Permanently for https://socialistics.com/?p=6925
+23:07:09	Warning: 	File has moved from https://socialistics.com/?p=6925 to https://socialistics.com/why-ecommerce-facebook-ads-are-the-way-to-go/
+23:07:09	Warning: 	Moved Permanently for https://socialistics.com/?p=5318
+23:07:09	Warning: 	File has moved from https://socialistics.com/?p=5318 to https://socialistics.com/why-you-might-want-to-consider-a-facebook-ads-expert/
+23:07:10	Warning: 	Moved Permanently for https://socialistics.com/?p=4441
+23:07:10	Warning: 	File has moved from https://socialistics.com/?p=4441 to https://socialistics.com/how-to-set-up-your-business-with-facebook-business-manager/
+23:07:10	Warning: 	Moved Permanently for https://socialistics.com/?p=4074
+23:07:10	Warning: 	File has moved from https://socialistics.com/?p=4074 to https://socialistics.com/5-expert-social-media-tips/
+23:07:10	Warning: 	Moved Permanently for https://socialistics.com/?p=3080
+23:07:10	Warning: 	File has moved from https://socialistics.com/?p=3080 to https://socialistics.com/facebook-for-small-business-owners-5-great-tips/
+23:07:11	Warning: 	Moved Permanently for https://socialistics.com/?p=2957
+23:07:11	Warning: 	File has moved from https://socialistics.com/?p=2957 to https://socialistics.com/linkedin-profile-bootcamp-5-improvements-in-60-minutes/
+23:07:11	Warning: 	Moved Permanently for https://socialistics.com/?p=3192
+23:07:11	Warning: 	File has moved from https://socialistics.com/?p=3192 to https://socialistics.com/marketing-agency/
+23:07:11	Warning: 	Moved Permanently for https://socialistics.com/?p=2953
+23:07:11	Warning: 	File has moved from https://socialistics.com/?p=2953 to https://socialistics.com/pokemon-go-marketing-for-local-businesses/
+23:07:11	Warning: 	Moved Permanently for https://socialistics.com/?p=5244
+23:07:11	Warning: 	File has moved from https://socialistics.com/?p=5244 to https://socialistics.com/why-a-paid-social-budget-is-necessary/
+23:07:34	Warning: 	Moved Permanently for https://socialistics.com/?p=7438
+23:07:34	Warning: 	File has moved from https://socialistics.com/?p=7438 to https://socialistics.com/socialistics-cares-no-kid-hungry/
+23:07:34	Warning: 	Moved Permanently for https://socialistics.com/?p=5320
+23:07:34	Warning: 	File has moved from https://socialistics.com/?p=5320 to https://socialistics.com/socialistics-cares-make-a-wish-alaska-washington/
+23:07:34	Warning: 	Moved Permanently for https://socialistics.com/?p=6929
+23:07:34	Warning: 	File has moved from https://socialistics.com/?p=6929 to https://socialistics.com/socialistics-cares-the-american-foundation-for-suicide-prevention/
+23:07:34	Warning: 	Moved Permanently for https://socialistics.com/?p=3013
+23:07:34	Warning: 	File has moved from https://socialistics.com/?p=3013 to https://socialistics.com/socialistics-the-miracle-league/
+23:07:34	Warning: 	Moved Permanently for https://socialistics.com/?p=7548
+23:07:34	Warning: 	File has moved from https://socialistics.com/?p=7548 to https://socialistics.com/socialistics-announced-as-a-top-seattle-social-media-agency-by-upcity/
+23:07:34	Warning: 	Moved Permanently for https://socialistics.com/?p=5344
+23:07:34	Warning: 	File has moved from https://socialistics.com/?p=5344 to https://socialistics.com/how-to-generate-social-media-content-ideas/
+23:07:34	Warning: 	Moved Permanently for https://socialistics.com/?p=6932
+23:07:34	Warning: 	File has moved from https://socialistics.com/?p=6932 to https://socialistics.com/how-often-should-you-post-on-social-media/
+23:07:34	Warning: 	Moved Permanently for https://socialistics.com/?p=6927
+23:07:34	Warning: 	File has moved from https://socialistics.com/?p=6927 to https://socialistics.com/social-media-agency-vs-hiring-an-employee/
+23:07:34	Warning: 	Moved Permanently for https://socialistics.com/?p=5266
+23:07:34	Warning: 	File has moved from https://socialistics.com/?p=5266 to https://socialistics.com/why-you-should-choose-a-social-media-agency-vs-a-general-one/
+23:07:36	Warning: 	Moved Permanently for https://socialistics.com/?p=4499
+23:07:36	Warning: 	File has moved from https://socialistics.com/?p=4499 to https://socialistics.com/why-you-shouldnt-sign-a-long-term-marketing-contract/
+23:07:36	Warning: 	Moved Permanently for https://socialistics.com/?p=4000
+23:07:36	Warning: 	File has moved from https://socialistics.com/?p=4000 to https://socialistics.com/7-social-media-marketing-trends-for-2020/
+23:07:36	Warning: 	Moved Permanently for https://socialistics.com/?p=3998
+23:07:36	Warning: 	File has moved from https://socialistics.com/?p=3998 to https://socialistics.com/2020-trend-spotting-direct-and-personalized-social-media-ads/
+23:07:36	Warning: 	Moved Permanently for https://socialistics.com/?p=3138
+23:07:36	Warning: 	File has moved from https://socialistics.com/?p=3138 to https://socialistics.com/social-media-marketing-agency/
+23:07:36	Warning: 	Moved Permanently for https://socialistics.com/?p=3113
+23:07:36	Warning: 	File has moved from https://socialistics.com/?p=3113 to https://socialistics.com/social-media-agency-7-reasons-why-its-the-right-call/
+23:07:36	Warning: 	Moved Permanently for https://socialistics.com/?p=7479
+23:07:36	Warning: 	File has moved from https://socialistics.com/?p=7479 to https://socialistics.com/how-to-leverage-public-speaking-for-your-agency-your-personal-brand/
+23:07:36	Error: 	"Error when decompressing" (-1) at link https://socialistics.com/blog/page/4/%e2%80%9chttps:/s3.amazonaws.com/top-local-agencies/js/upcity_widget.js%e2%80%9d (from https://socialistics.com/blog/page/4/?et_blog)
+23:07:38	Warning: 	Moved Permanently for https://socialistics.com/?p=4029
+23:07:38	Warning: 	File has moved from https://socialistics.com/?p=4029 to https://socialistics.com/b2b-social-media/
+23:07:38	Warning: 	Moved Permanently for https://socialistics.com/?p=6928
+23:07:38	Warning: 	File has moved from https://socialistics.com/?p=6928 to https://socialistics.com/influencer-social-media-agency-strategies-that-can-grow-your-brand/
+23:07:38	Warning: 	Moved Permanently for https://socialistics.com/?p=5309
+23:07:38	Warning: 	File has moved from https://socialistics.com/?p=5309 to https://socialistics.com/talking-agency-shop-copy-copy/
+23:07:38	Warning: 	Moved Permanently for https://socialistics.com/?p=6930
+23:07:38	Warning: 	File has moved from https://socialistics.com/?p=6930 to https://socialistics.com/talking-agency-shop-copy/
+23:07:38	Warning: 	Moved Permanently for https://socialistics.com/?p=5239
+23:07:38	Warning: 	File has moved from https://socialistics.com/?p=5239 to https://socialistics.com/talking-agency-shop/
+23:07:38	Warning: 	Moved Permanently for https://socialistics.com/?p=5203
+23:07:38	Warning: 	File has moved from https://socialistics.com/?p=5203 to https://socialistics.com/running-production-video-house/
+23:07:38	Warning: 	Moved Permanently for https://socialistics.com/?p=5218
+23:07:38	Warning: 	File has moved from https://socialistics.com/?p=5218 to https://socialistics.com/social-media-pro-ashley-ohl/
+23:07:38	Warning: 	Moved Permanently for https://socialistics.com/?p=5200
+23:07:38	Warning: 	File has moved from https://socialistics.com/?p=5200 to https://socialistics.com/upgrading-your-agency-reporting/
+23:07:38	Warning: 	Moved Permanently for https://socialistics.com/?p=5174
+23:07:38	Warning: 	File has moved from https://socialistics.com/?p=5174 to https://socialistics.com/the-power-of-saying-no/
+23:07:38	Warning: 	Moved Permanently for https://socialistics.com/?p=5168
+23:07:38	Warning: 	File has moved from https://socialistics.com/?p=5168 to https://socialistics.com/hyke-revolutionizing-tax-management-for-agencies-with-ceo-hooman-radfar/
+23:07:48	Warning: 	Moved Permanently for https://socialistics.com/the-power-of-saying-no-copy/
+23:07:48	Warning: 	File has moved from https://socialistics.com/the-power-of-saying-no-copy/ to https://socialistics.com/bohemian-rhapsody/
+23:07:52	Warning: 	Moved Permanently for https://socialistics.com/?p=4309
+23:07:52	Warning: 	File has moved from https://socialistics.com/?p=4309 to https://socialistics.com/social-media-marketing-during-a-pandemic/
+23:07:52	Error: 	"Error when decompressing" (-1) at link https://socialistics.com/blog/page/5/%e2%80%9chttps:/s3.amazonaws.com/top-local-agencies/js/upcity_widget.js%e2%80%9d (from https://socialistics.com/blog/page/5/?et_blog)
+23:07:54	Warning: 	Moved Permanently for https://socialistics.com/?p=5190
+23:07:54	Warning: 	File has moved from https://socialistics.com/?p=5190 to https://socialistics.com/liang-du/
+23:07:54	Warning: 	Moved Permanently for https://socialistics.com/?p=5186
+23:07:54	Warning: 	File has moved from https://socialistics.com/?p=5186 to https://socialistics.com/bohemian-rhapsody/
+23:07:54	Warning: 	Moved Permanently for https://socialistics.com/?p=5179
+23:07:54	Warning: 	File has moved from https://socialistics.com/?p=5179 to https://socialistics.com/website-agency-disruption/
+23:07:54	Warning: 	Moved Permanently for https://socialistics.com/?p=5183
+23:07:54	Warning: 	File has moved from https://socialistics.com/?p=5183 to https://socialistics.com/pandemic-survival/
+23:07:54	Warning: 	Moved Permanently for https://socialistics.com/?p=5188
+23:07:54	Warning: 	File has moved from https://socialistics.com/?p=5188 to https://socialistics.com/cleverly/
+23:07:54	Warning: 	Moved Permanently for https://socialistics.com/?p=5194
+23:07:54	Warning: 	File has moved from https://socialistics.com/?p=5194 to https://socialistics.com/socialistics-podcast-first/
+23:07:54	Error: 	"Error when decompressing" (-1) at link https://socialistics.com/blog/page/6/%e2%80%9chttps:/s3.amazonaws.com/top-local-agencies/js/upcity_widget.js%e2%80%9d (from https://socialistics.com/blog/page/6/?et_blog)
+23:07:57	Error: 	"Error when decompressing" (-1) at link https://socialistics.com/blog/page/7/%e2%80%9chttps:/s3.amazonaws.com/top-local-agencies/js/upcity_widget.js%e2%80%9d (from https://socialistics.com/blog/page/7/?et_blog)
+23:07:59	Error: 	"Error when decompressing" (-1) at link https://socialistics.com/blog/page/8/%e2%80%9chttps:/s3.amazonaws.com/top-local-agencies/js/upcity_widget.js%e2%80%9d (from https://socialistics.com/blog/page/8/?et_blog)
+23:08:03	Error: 	"Error when decompressing" (-1) at link https://socialistics.com/blog/page/9/%e2%80%9chttps:/s3.amazonaws.com/top-local-agencies/js/upcity_widget.js%e2%80%9d (from https://socialistics.com/blog/page/9/?et_blog)
+23:08:06	Error: 	"Error when decompressing" (-1) at link https://socialistics.com/blog/page/10/%e2%80%9chttps:/s3.amazonaws.com/top-local-agencies/js/upcity_widget.js%e2%80%9d (from https://socialistics.com/blog/page/10/?et_blog)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 50 seconds : 1013 links scanned, 858 files written (82382263 bytes overall) [64819268 bytes received at 158095 bytes/sec], 25551635 bytes transferred using HTTP compression in 608 files, ratio 28%, 13.7 requests per connection
+(30 errors, 240 warnings, 0 messages)
