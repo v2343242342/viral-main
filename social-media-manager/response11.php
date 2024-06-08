@@ -4,7 +4,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     function post_captcha($user_response) {
         $fields_string = '';
         $fields = array(
-            'secret' => '6LdKHfgbAAAAAMTDdA4u7mvF8BoBqRqeKAdlQ8LO',
+            'secret' => '6LdlJe0pAAAAAFrI7HqCIB-eyV8JhbbI2yjqSn3q',
             'response' => $user_response
         );
         foreach($fields as $key=>$value)
